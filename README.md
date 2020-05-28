@@ -20,7 +20,9 @@
 Это значит, что вам нужно будет ознакомиться со всеми теми топиками, которые проверятся в тесте.
 
 **Backend** - https://docs.google.com/forms/d/e/1FAIpQLSfsANRO_zpbZSvSJplEs_Xip6_g5HXU3E4RFiUAhKwKDz4Msw/viewform?usp=sf_link
+
 **Android** - https://docs.google.com/forms/d/e/1FAIpQLSe8pEbiOP4UT8PPf43Q_y84cDUuKb9wmXQjqK17MbNdoTg8iA/viewform?usp=sf_link
+
 **IOS** - https://docs.google.com/forms/d/e/1FAIpQLSdyBufx5FgpGMaNSJAJ4uMwcs-DHzHxRkhyeBoMX1pwofdlSA/viewform?usp=sf_link
 
 Я верю во всех нас и желаю нам всем удачи!
